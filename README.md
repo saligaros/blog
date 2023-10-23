@@ -1,2 +1,0 @@
-# blog
-gh-pages
